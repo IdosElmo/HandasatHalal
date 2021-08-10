@@ -2,7 +2,7 @@
 
 Handasat Halal course @Ariel University 2021
 
-Ido Elmaleh, Yana Shayev, Avi Bםter.
+Ido Elmaleh, Yana Shayev, Avi Boter.
 
 In this project we simulate a spacecraft (Beresheet) landing on the moon.
   The parameters we use are:
